@@ -43,6 +43,10 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="BaseMeterClass.cs" />
+    <Compile Include="ChannelClass.cs" />
+    <Compile Include="Dlt645MeterClass.cs" />
+    <Compile Include="Dlt645ProtocolClass.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

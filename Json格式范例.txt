@@ -1,0 +1,15 @@
+{
+    "valueArray": [
+        1,
+        2,
+        3
+    ],
+    "valueType": "组合数据",
+    "Station": "2号楼",
+    "Channel": "1#配电室Modbus线路",
+    "UnitArray": {
+        "a": "Hz",
+        "c": "A",
+        "e": "V"
+    }
+}

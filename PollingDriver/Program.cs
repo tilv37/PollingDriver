@@ -10,6 +10,10 @@ namespace PollingDriver
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("启动轮询问答程序");
+            ChannelClass newChannel=new ChannelClass();
+
+            newChannel.DoWork();
         }
     }
 }
